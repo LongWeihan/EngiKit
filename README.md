@@ -22,7 +22,6 @@ The inaugural tool in the EngiKit collection, designed for researchers and stude
 
 **Screenshot:**
 
-![Screenshot of Waveguide Calculator]
 <img width="502" height="532" alt="image" src="https://github.com/user-attachments/assets/cc8f6d37-f7b5-4278-ac42-684a479a90dc" />
 
 **How to Use:**
